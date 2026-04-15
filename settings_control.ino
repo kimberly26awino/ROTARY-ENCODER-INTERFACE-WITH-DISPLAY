@@ -49,3 +49,4 @@ void simulateEncoderInput() {
 void toggleSetting() {
   selectedSetting = !selectedSetting;
 }
+// Added comment for PR demonstration
