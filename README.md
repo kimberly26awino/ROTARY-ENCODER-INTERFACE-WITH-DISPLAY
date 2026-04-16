@@ -1,4 +1,7 @@
 # ROTARY-ENCODER-INTERFACE-WITH-DISPLAY
+<<<<<<< HEAD
+Rotary encoder interface with display control for embedded systems.
+=======
 A system that uses a rotary encoder to navigate and modify settings in a menu-driven display interface.
 # Rotary Encoder Interface with Display
 
@@ -66,3 +69,4 @@ Each parameter allows:
 ---
 
 ##  Project Structure (Git Workflow)
+>>>>>>> ee0267967baa1c79ca7596dbc121d3dc88628c61
