@@ -1,0 +1,10 @@
+*.hex
+*.bin
+*.elf
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+build/
+dist/
